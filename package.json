@@ -1,0 +1,23 @@
+{
+	"name": "cucumbering",
+	"version": "1.0.0",
+	"description": "Project to test cucumber skills",
+	"main": "cucumber.js",
+	"dependencies": {
+		"cucumber": "^6.0.5"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "cucumber-js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mauricioaraldi/cucumbering.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mauricioaraldi/cucumbering/issues"
+	},
+	"homepage": "https://github.com/mauricioaraldi/cucumbering#readme"
+}
